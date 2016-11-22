@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "919983363942",
+    "firebase_url": "https://smart-plug-fd650.firebaseio.com",
+    "project_id": "smart-plug-fd650",
+    "storage_bucket": "smart-plug-fd650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919983363942:android:dbc4712de56407c2",
+        "android_client_info": {
+          "package_name": "com.example.alexalderman.smartplugtesterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919983363942-f5cde1ak42gtk96m689q1fhj38df1rka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexalderman.smartplugtesterapp",
+            "certificate_hash": "45B306F8829F066897D5414504C0F868796A585F"
+          }
+        },
+        {
+          "client_id": "919983363942-j2s0el8dn5icl7oduo9kvc20tv0ghvs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVgfV8wNVHpeB5nuzJ0_viDXZ8Hebggw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919983363942-j2s0el8dn5icl7oduo9kvc20tv0ghvs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919983363942:android:002f0a207aaa08ec",
+        "android_client_info": {
+          "package_name": "firebase.smartplugtestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919983363942-5u3tevm152v4e2f06p2br37a35leoq1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.smartplugtestapplication",
+            "certificate_hash": "45B306F8829F066897D5414504C0F868796A585F"
+          }
+        },
+        {
+          "client_id": "919983363942-j2s0el8dn5icl7oduo9kvc20tv0ghvs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVgfV8wNVHpeB5nuzJ0_viDXZ8Hebggw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919983363942-j2s0el8dn5icl7oduo9kvc20tv0ghvs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
